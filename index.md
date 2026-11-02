@@ -15,4 +15,4 @@ No está disponible al público y no admite registro de usuarios.
 
 ## Contacto
 
-**[CORREO DE CONTACTO]**
+juanjosemayorquincabrera@gmail.com
