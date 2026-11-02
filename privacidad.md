@@ -50,7 +50,7 @@ El tratamiento de datos personales se rige por la Ley Estatutaria 1581 de 2012 d
 
 ## 8. Contacto
 
-Para cualquier consulta sobre esta política: **[CORREO DE CONTACTO]**.
+Para cualquier consulta sobre esta política: juanjosemayorquincabrera@gmail.com.
 
 ## 9. Cambios
 
