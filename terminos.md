@@ -42,7 +42,7 @@ Estos términos se rigen por las leyes de la República de Colombia.
 
 ## 9. Contacto
 
-**[CORREO DE CONTACTO]**
+juanjosemayorquincabrera@gmail.com
 
 ## 10. Cambios
 
