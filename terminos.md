@@ -8,7 +8,7 @@ title: Términos y condiciones de uso de Luca
 
 ## 1. Objeto
 
-Estos términos regulan el uso de **Luca**, un asistente personal desarrollado y operado por **[NOMBRE COMPLETO]** (en adelante, "el responsable") para su uso exclusivo.
+Estos términos regulan el uso de **Luca**, un asistente personal desarrollado y operado por **JUAN JOSÉ MAYORQUÍN CABRERA** (en adelante, "el responsable") para su uso exclusivo.
 
 ## 2. Quién puede usar Luca
 
