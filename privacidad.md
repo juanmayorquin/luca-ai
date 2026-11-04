@@ -4,7 +4,7 @@ title: Política de privacidad de Luca
 
 # Política de privacidad de Luca
 
-**Última actualización:** 3 de noviembre de 2026
+**Última actualización:** 4 de noviembre de 2026
 
 ## 1. Qué es Luca
 
@@ -17,7 +17,7 @@ Luca usa las API de Google Drive y Google Calendar con estos permisos:
 | Permiso (scope) | Para qué se usa |
 | --- | --- |
 | `https://www.googleapis.com/auth/drive.file` | Crear, leer y actualizar **solo los archivos que la propia aplicación crea** en la carpeta `Luca/` del Drive del responsable. Hoy se usa para guardar copias de seguridad cifradas. |
-| `https://www.googleapis.com/auth/calendar.events` | **Leer** los eventos de dos calendarios del responsable (personal y universidad) para armar el resumen del día y organizar recordatorios, y **crear o modificar** eventos solo en el calendario personal, siempre después de que el responsable lo confirme. |
+| `https://www.googleapis.com/auth/calendar.events` | **Leer** los eventos de dos calendarios del responsable (personal y universidad) para armar el resumen del día y avisarle a tiempo, y **crear o modificar** eventos en esos calendarios cuando el responsable se lo pide. Borrar un evento siempre requiere su confirmación. |
 
 Con el permiso de Drive, Luca **no puede ver, leer ni modificar ningún otro archivo** del Google Drive del usuario. Con el de Calendar, Luca solo consulta los calendarios configurados, **nunca borra eventos por su cuenta** y no accede a la configuración ni a la lista de contactos del usuario.
 
