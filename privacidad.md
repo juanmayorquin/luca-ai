@@ -8,7 +8,7 @@ title: Política de privacidad de Luca
 
 ## 1. Qué es Luca
 
-Luca es un asistente personal de uso privado, desarrollado y operado por **[NOMBRE COMPLETO]** (en adelante, "el responsable"). Lo usa **una sola persona**: el propio responsable. No está disponible al público, no admite registro de usuarios y no se comercializa.
+Luca es un asistente personal de uso privado, desarrollado y operado por **JUAN JOSÉ MAYORQUÍN CABRERA** (en adelante, "el responsable"). Lo usa **una sola persona**: el propio responsable. No está disponible al público, no admite registro de usuarios y no se comercializa.
 
 ## 2. Datos de Google a los que accede Luca
 
